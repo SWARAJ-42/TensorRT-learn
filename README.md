@@ -1,2 +1,2 @@
 # TensorRT-learn
-learnings from nvidia TensorRT docs
+Learnings from nvidia TensorRT documentations
